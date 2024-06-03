@@ -1,2 +1,5 @@
-# Ecommerse-Application
-This repository contains a MERN stack eCommerce application with product listings, search and filtering, JWT authentication, a shopping cart, order summaries, and order history. Admin features include a dashboard for sales and users, product management with image uploads, order management, and user role management.
+# ecommerce-app-2023
+complete mern stack ecommerce project 2023 complete code
+# Please check branches source code is video no wise 
+## here is project playlist : https://youtube.com/playlist?list=PLuHGmgpyHfRzhGkSUfY0vpi67X64g0mXB
+## please like subscribe and share TechinfoYT youtube chaannel
